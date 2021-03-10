@@ -1,7 +1,4 @@
-# cognitivo.ai
-Teste técnico - Data Science
-
-<font size= '6' color='#6e19ae'>&nbsp;&nbsp;**Desafio Data Science - COGNITIVO.AI**&nbsp;&nbsp;</font>
+## **Desafio Data Science - COGNITIVO.AI**
 ___
 
 ## Luciano Fernandes de Ávila Oliveira
